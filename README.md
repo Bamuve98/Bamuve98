@@ -221,12 +221,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
 ```
 
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/Bamuve98/Bamuve98/main/assets/bar_graph.png)
-
-
  Last Updated on 05/07/2026 22:35:46 UTC
 <!--END_SECTION:waka-->
