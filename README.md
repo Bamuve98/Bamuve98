@@ -19,6 +19,15 @@
   <img src="https://streak-stats.demolab.com/?user=Bamuve98&theme=dark&hide_border=true" alt="GitHub Streak"/>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Bamuve98/Bamuve98/output/github-snake-dark.svg" alt="Snake animation"/>
+</p>
+
+### ⏱️ WakaTime Weekly Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <h2 id="english" align="center">
   <img src="https://img.shields.io/badge/-ENGLISH-blue?style=flat-square" alt="English section">
 </h2>
