@@ -166,7 +166,7 @@
  > 
 > 🏆 237 Contributions in the Year 2026
  > 
-> 🚫 Not Opted to Hire
+> 💼 Opted to Hire
  > 
 > 📜 5 Public Repositories 
  > 
@@ -228,5 +228,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Bamuve98/Bamuve98/main/assets/bar_graph.png)
 
 
- Last Updated on 05/07/2026 22:44:01 UTC
+ Last Updated on 05/07/2026 22:47:09 UTC
 <!--END_SECTION:waka-->
