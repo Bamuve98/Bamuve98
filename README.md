@@ -1,6 +1,15 @@
-<p align="right"><a href="#-english">🇬🇧 English</a> · <a href="#-español">🇪🇸 Español</a></p>
+<p align="right">
+  <a href="#english">
+    <img src="https://img.shields.io/badge/lang-English-blue?style=for-the-badge" alt="English">
+  </a>
+  <a href="#español">
+    <img src="https://img.shields.io/badge/idioma-Español-red?style=for-the-badge" alt="Español">
+  </a>
+</p>
 
-<h2 align="center">🇬🇧 English</h2>
+<h2 id="english" align="center">
+  <img src="https://img.shields.io/badge/-ENGLISH-blue?style=flat-square" alt="English section">
+</h2>
 
 <h1 align="center">Hi, I'm Benjamin Moran 👋</h1>
 <h3 align="center">Full Stack Developer focused on Generative AI | Santiago, Chile</h3>
@@ -68,7 +77,9 @@
 
 <br>
 
-<h2 align="center">🇪🇸 Español</h2>
+<h2 id="español" align="center">
+  <img src="https://img.shields.io/badge/-ESPAÑOL-red?style=flat-square" alt="Sección en español">
+</h2>
 
 <h1 align="center">¡Hola! Soy Benjamin Moran 👋</h1>
 <h3 align="center">Full Stack Developer con foco en IA Generativa | Santiago, Chile</h3>
