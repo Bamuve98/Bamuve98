@@ -7,6 +7,14 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bamuve98&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bamuve98&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="165"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Bamuve98&theme=dark&hide_border=true" alt="GitHub Streak"/>
+</p>
+
 <h2 id="english" align="center">
   <img src="https://img.shields.io/badge/-ENGLISH-blue?style=flat-square" alt="English section">
 </h2>
