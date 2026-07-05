@@ -156,4 +156,77 @@
 ### ⏱️ WakaTime Weekly Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 234 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 5 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                24 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+🌆 Daytime                139 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+🌃 Evening                532 commits         ██████████████░░░░░░░░░░░   55.02 % 
+🌙 Night                  272 commits         ███████░░░░░░░░░░░░░░░░░░   28.13 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   84 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
+Tuesday                  71 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
+Wednesday                44 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Thursday                 99 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
+Friday                   82 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
+Saturday                 252 commits         ███████░░░░░░░░░░░░░░░░░░   26.06 % 
+Sunday                   335 commits         █████████░░░░░░░░░░░░░░░░   34.64 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Santiago
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               17 repos            ██████████████████░░░░░░░   73.91 % 
+Python                   3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Bamuve98/Bamuve98/main/assets/bar_graph.png)
+
+
+ Last Updated on 05/07/2026 22:32:05 UTC
 <!--END_SECTION:waka-->
