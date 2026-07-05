@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2b6cb0&height=200&section=header&text=Benjamin%20Moran&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Generative%20AI&descAlignY=58&descSize=20" alt="Banner"/>
+</p>
+
 <p align="right">
   <a href="#english">
     <img src="https://img.shields.io/badge/lang-English-blue?style=for-the-badge" alt="English">
@@ -19,8 +23,7 @@
   <img src="https://img.shields.io/badge/-ENGLISH-blue?style=flat-square" alt="English section">
 </h2>
 
-<h1 align="center">Hi, I'm Benjamin Moran 👋</h1>
-<h3 align="center">Full Stack Developer focused on Generative AI | Santiago, Chile</h3>
+<h3 align="center">👋 Hi, I'm Benjamin</h3>
 <p align="center">
   I build products end-to-end — from production RAG pipelines to self-shipped SaaS with real billing.
 </p>
@@ -89,8 +92,7 @@
   <img src="https://img.shields.io/badge/-ESPAÑOL-red?style=flat-square" alt="Sección en español">
 </h2>
 
-<h1 align="center">¡Hola! Soy Benjamin Moran 👋</h1>
-<h3 align="center">Full Stack Developer con foco en IA Generativa | Santiago, Chile</h3>
+<h3 align="center">👋 ¡Hola! Soy Benjamin</h3>
 <p align="center">
   Construyo productos de punta a punta — desde pipelines RAG en producción hasta SaaS propios con billing real.
 </p>
