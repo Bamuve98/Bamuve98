@@ -164,7 +164,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 237 Contributions in the Year 2026
+> 🏆 236 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -223,10 +223,6 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/Bamuve98/Bamuve98/main/assets/bar_graph.png)
-
-
- Last Updated on 05/07/2026 22:47:09 UTC
+ Last Updated on 06/07/2026 00:58:02 UTC
 <!--END_SECTION:waka-->
