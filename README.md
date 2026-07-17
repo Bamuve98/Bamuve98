@@ -156,8 +156,6 @@
 ### ⏱️ WakaTime Weekly Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%2019%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-72-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -232,5 +230,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/07/2026 00:45:42 UTC
+ Last Updated on 17/07/2026 00:47:55 UTC
 <!--END_SECTION:waka-->
