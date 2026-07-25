@@ -197,25 +197,25 @@ Sunday                   502 commits         █████████░░�
 🕑︎ Time Zone: America/Santiago
 
 💬 Programming Languages: 
-Markdown                 18 hrs 4 mins       ████████████░░░░░░░░░░░░░   46.89 % 
-Other                    12 hrs 21 mins      ████████░░░░░░░░░░░░░░░░░   32.05 % 
-JSON                     2 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
-Text                     1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
-Python                   1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+Markdown                 18 hrs 42 mins      █████████████░░░░░░░░░░░░   50.48 % 
+Other                    11 hrs 14 mins      ████████░░░░░░░░░░░░░░░░░   30.31 % 
+JSON                     1 hr 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+TypeScript               1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+Python                   1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
 
 🔥 Editors: 
-Claude Code              35 hrs 54 mins      ███████████████████████░░   93.19 % 
-VS Code                  2 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
+Claude Code              31 hrs 5 mins       █████████████████████░░░░   83.85 % 
+VS Code                  5 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
 
 🐱‍💻 Projects: 
-neexofy                  30 hrs 13 mins      ████████████████████░░░░░   78.45 % 
-Perenne                  3 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
-next-car                 1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
-referenced-chatgpt-conver44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
-frappe crm               33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+neexofy                  24 hrs 45 mins      █████████████████░░░░░░░░   66.75 % 
+Perenne                  3 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+agenda-tattoo            2 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+next-car                 1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+plugins                  58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
 
 💻 Operating System: 
-Windows                  38 hrs 31 mins      █████████████████████████   100.00 % 
+Windows                  37 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -231,5 +231,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 00:46:06 UTC
+ Last Updated on 25/07/2026 00:49:01 UTC
 <!--END_SECTION:waka-->
