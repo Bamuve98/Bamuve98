@@ -156,7 +156,7 @@
 ### ⏱️ WakaTime Weekly Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-68%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-72%20hrs%2030%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -199,25 +199,25 @@ Sunday                   502 commits         █████████░░�
 🕑︎ Time Zone: America/Santiago
 
 💬 Programming Languages: 
-Markdown                 15 hrs 44 mins      ███████████░░░░░░░░░░░░░░   44.52 % 
-Other                    12 hrs 50 mins      █████████░░░░░░░░░░░░░░░░   36.33 % 
-JSON                     1 hr 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
-PHP                      1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
-Python                   1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+Other                    14 hrs 5 mins       ██████████░░░░░░░░░░░░░░░   41.72 % 
+Markdown                 11 hrs 28 mins      ████████░░░░░░░░░░░░░░░░░   33.97 % 
+Python                   2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
+PHP                      2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+JSON                     1 hr 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
 
 🔥 Editors: 
-Claude Code              29 hrs 42 mins      █████████████████████░░░░   84.04 % 
-VS Code                  5 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
+Claude Code              27 hrs 49 mins      █████████████████████░░░░   82.39 % 
+VS Code                  5 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
 
 🐱‍💻 Projects: 
-neexofy                  26 hrs 53 mins      ███████████████████░░░░░░   76.11 % 
-agenda-tattoo            3 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
-next-car                 1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
-plugins                  58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
-referenced-chatgpt-conver44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+neexofy                  24 hrs 47 mins      ██████████████████░░░░░░░   73.42 % 
+agenda-tattoo            3 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
+next-car                 1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+plugins                  58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+referenced-chatgpt-conver44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
 
 💻 Operating System: 
-Windows                  35 hrs 20 mins      █████████████████████████   100.00 % 
+Windows                  33 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -233,5 +233,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2026 00:52:27 UTC
+ Last Updated on 27/07/2026 00:52:34 UTC
 <!--END_SECTION:waka-->
