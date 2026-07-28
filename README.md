@@ -156,7 +156,9 @@
 ### ⏱️ WakaTime Weekly Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-72%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-59%20hrs%206%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-76%20hrs%2055%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -199,25 +201,50 @@ Sunday                   502 commits         █████████░░�
 🕑︎ Time Zone: America/Santiago
 
 💬 Programming Languages: 
-Other                    14 hrs 5 mins       ██████████░░░░░░░░░░░░░░░   41.72 % 
-Markdown                 11 hrs 28 mins      ████████░░░░░░░░░░░░░░░░░   33.97 % 
-Python                   2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
-PHP                      2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
-JSON                     1 hr 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+Other                    13 hrs 55 mins      ██████████░░░░░░░░░░░░░░░   41.23 % 
+Markdown                 12 hrs 59 mins      ██████████░░░░░░░░░░░░░░░   38.45 % 
+PHP                      2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
+Python                   2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+TypeScript               36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
 
 🔥 Editors: 
-Claude Code              27 hrs 49 mins      █████████████████████░░░░   82.39 % 
-VS Code                  5 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
+Claude Code              27 hrs 52 mins      █████████████████████░░░░   82.55 % 
+VS Code                  5 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
 
 🐱‍💻 Projects: 
-neexofy                  24 hrs 47 mins      ██████████████████░░░░░░░   73.42 % 
+neexofy                  22 hrs 36 mins      █████████████████░░░░░░░░   66.92 % 
 agenda-tattoo            3 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
+AstroDev                 2 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
 next-car                 1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
 plugins                  58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
-referenced-chatgpt-conver44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
 
 💻 Operating System: 
 Windows                  33 hrs 46 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 33 hrs 46 mins (100.0%)
+
+✍️ 19,302 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 603,484,195 Input Tokens, 1,024,362 Output Tokens
+
+💵 $2166.01 Estimated AI Cost This Week
+
+🧠 41 AI Sessions, 319 AI Prompts
+
+Sonnet                   11,067 lines        ██████████████░░░░░░░░░░░   54.99 % 
+GPT                      9,059 lines         ███████████░░░░░░░░░░░░░░   45.01 % 
+Vscode-Wakatime          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 646 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -233,5 +260,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 00:52:34 UTC
+ Last Updated on 28/07/2026 00:45:46 UTC
 <!--END_SECTION:waka-->
