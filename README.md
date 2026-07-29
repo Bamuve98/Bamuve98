@@ -156,10 +156,6 @@
 ### ⏱️ WakaTime Weekly Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-59%20hrs%206%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-76%20hrs%2055%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -201,39 +197,39 @@ Sunday                   502 commits         █████████░░�
 🕑︎ Time Zone: America/Santiago
 
 💬 Programming Languages: 
-Other                    13 hrs 55 mins      ██████████░░░░░░░░░░░░░░░   41.23 % 
-Markdown                 12 hrs 59 mins      ██████████░░░░░░░░░░░░░░░   38.45 % 
-PHP                      2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
-Python                   2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-TypeScript               36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+Markdown                 12 hrs 43 mins      ██████████░░░░░░░░░░░░░░░   41.05 % 
+Other                    11 hrs 24 mins      █████████░░░░░░░░░░░░░░░░   36.81 % 
+PHP                      2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+Python                   2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
+TypeScript               36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
 
 🔥 Editors: 
-Claude Code              27 hrs 52 mins      █████████████████████░░░░   82.55 % 
-VS Code                  5 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
+Claude Code              25 hrs 5 mins       ████████████████████░░░░░   80.99 % 
+VS Code                  5 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
 
 🐱‍💻 Projects: 
-neexofy                  22 hrs 36 mins      █████████████████░░░░░░░░   66.92 % 
-agenda-tattoo            3 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
-AstroDev                 2 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
-next-car                 1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
-plugins                  58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+neexofy                  19 hrs 49 mins      ████████████████░░░░░░░░░   63.96 % 
+agenda-tattoo            3 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+AstroDev                 2 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+next-car                 1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+plugins                  58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
 
 💻 Operating System: 
-Windows                  33 hrs 46 mins      █████████████████████████   100.00 % 
+Windows                  30 hrs 59 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 33 hrs 46 mins (100.0%)
+⏱ AI Coding Time: 30 hrs 59 mins (100.0%)
 
 ✍️ 19,302 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 603,484,195 Input Tokens, 1,024,362 Output Tokens
+🔤 540,018,079 Input Tokens, 976,447 Output Tokens
 
-💵 $2166.01 Estimated AI Cost This Week
+💵 $2000.52 Estimated AI Cost This Week
 
-🧠 41 AI Sessions, 319 AI Prompts
+🧠 40 AI Sessions, 296 AI Prompts
 
 Sonnet                   11,067 lines        ██████████████░░░░░░░░░░░   54.99 % 
 GPT                      9,059 lines         ███████████░░░░░░░░░░░░░░   45.01 % 
@@ -242,8 +238,8 @@ Haiku                    0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 646 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
+📄 Detailed Prompter — average 683 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -260,5 +256,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2026 00:45:46 UTC
+ Last Updated on 29/07/2026 00:46:17 UTC
 <!--END_SECTION:waka-->
