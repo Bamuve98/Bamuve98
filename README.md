@@ -156,9 +156,9 @@
 ### ⏱️ WakaTime Weekly Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-65%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-66%20hrs%2056%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-86%20hrs%203%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-92%20hrs%208%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -177,21 +177,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                49 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
-🌆 Daytime                326 commits         █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
-🌃 Evening                773 commits         ███████████░░░░░░░░░░░░░░   44.22 % 
-🌙 Night                  600 commits         █████████░░░░░░░░░░░░░░░░   34.32 % 
+🌞 Morning                57 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+🌆 Daytime                434 commits         █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
+🌃 Evening                923 commits         ███████████░░░░░░░░░░░░░░   42.61 % 
+🌙 Night                  752 commits         █████████░░░░░░░░░░░░░░░░   34.72 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   319 commits         █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
-Tuesday                  127 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
-Wednesday                50 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-Thursday                 183 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
-Friday                   98 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
-Saturday                 379 commits         █████░░░░░░░░░░░░░░░░░░░░   21.68 % 
-Sunday                   592 commits         ████████░░░░░░░░░░░░░░░░░   33.87 % 
+Monday                   409 commits         █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
+Tuesday                  163 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
+Wednesday                62 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Thursday                 211 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
+Friday                   100 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+Saturday                 533 commits         ██████░░░░░░░░░░░░░░░░░░░   24.61 % 
+Sunday                   688 commits         ████████░░░░░░░░░░░░░░░░░   31.76 % 
 ```
 
 
@@ -201,49 +201,50 @@ Sunday                   592 commits         ████████░░░�
 🕑︎ Time Zone: America/Santiago
 
 💬 Programming Languages: 
-Other                    8 hrs 44 mins       ███████████░░░░░░░░░░░░░░   44.54 % 
-Markdown                 7 hrs 13 mins       █████████░░░░░░░░░░░░░░░░   36.82 % 
-PHP                      1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
-TypeScript               1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
-Python                   51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+Markdown                 10 hrs 3 mins       ████████████░░░░░░░░░░░░░   47.05 % 
+Other                    8 hrs 47 mins       ██████████░░░░░░░░░░░░░░░   41.12 % 
+TypeScript               1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
+PHP                      33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+Git Config               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
 
 🔥 Editors: 
-Claude Code              13 hrs 57 mins      ██████████████████░░░░░░░   71.13 % 
-VS Code                  5 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   28.87 % 
+Claude Code              13 hrs 29 mins      ████████████████░░░░░░░░░   63.09 % 
+VS Code                  7 hrs 53 mins       █████████░░░░░░░░░░░░░░░░   36.91 % 
 
 🐱‍💻 Projects: 
-neexofy                  10 hrs 54 mins      ██████████████░░░░░░░░░░░   55.57 % 
-AstroDev                 3 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
-cv-master                2 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
-next-car                 1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
-vault-sidequest          27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+neexofy                  9 hrs 24 mins       ███████████░░░░░░░░░░░░░░   43.99 % 
+cv-master                6 hrs               ███████░░░░░░░░░░░░░░░░░░   28.07 % 
+AstroDev                 3 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
+next-car                 1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+vault-sidequest          27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
 
 💻 Operating System: 
-Windows                  19 hrs 38 mins      █████████████████████████   100.00 % 
+Windows                  21 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 hrs 38 mins (100.0%)
+⏱ AI Coding Time: 21 hrs 23 mins (100.0%)
 
-✍️ 13,293 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 13,733 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 340,863,361 Input Tokens, 765,817 Output Tokens
+🔤 383,321,393 Input Tokens, 920,798 Output Tokens
 
-💵 $1322.12 Estimated AI Cost This Week
+💵 $1525.07 Estimated AI Cost This Week
 
-🧠 30 AI Sessions, 246 AI Prompts
+🧠 27 AI Sessions, 273 AI Prompts
 
-Sonnet                   9,349 lines         ██████████████████░░░░░░░   70.32 % 
-GPT                      3,946 lines         ███████░░░░░░░░░░░░░░░░░░   29.68 % 
+Sonnet                   12,477 lines        ███████████████████████░░   90.77 % 
+GPT                      1,269 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
 Vscode-Wakatime          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 6,242 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
+📚 Verbose Prompter — average 6,356 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -251,8 +252,7 @@ Haiku                    0 lines             ░░░░░░░░░░░�
 
 ```text
 TypeScript               18 repos            ███████████████████░░░░░░   75.00 % 
-Python                   3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Python                   4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
 HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
 Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
 ```
@@ -260,5 +260,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/08/2026 00:50:45 UTC
+ Last Updated on 03/08/2026 00:50:09 UTC
 <!--END_SECTION:waka-->
