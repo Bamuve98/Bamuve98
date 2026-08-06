@@ -156,9 +156,9 @@
 ### ⏱️ WakaTime Weekly Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-77%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-82%20hrs%2013%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-104%20hrs%2035%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-110%20hrs%2015%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -201,50 +201,50 @@ Sunday                   715 commits         ████████░░░�
 🕑︎ Time Zone: America/Santiago
 
 💬 Programming Languages: 
-Markdown                 16 hrs 40 mins      ██████████████░░░░░░░░░░░   57.96 % 
-Other                    8 hrs               ███████░░░░░░░░░░░░░░░░░░   27.82 % 
-TypeScript               2 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
-JSON                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
-SQL                      22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+Markdown                 16 hrs 46 mins      ███████████████░░░░░░░░░░   59.40 % 
+Other                    7 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   26.47 % 
+TypeScript               2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
+JSON                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+SQL                      21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 46 mins      █████████████░░░░░░░░░░░░   51.37 % 
-Claude Code              13 hrs 59 mins      ████████████░░░░░░░░░░░░░   48.63 % 
+VS Code                  15 hrs              █████████████░░░░░░░░░░░░   53.13 % 
+Claude Code              13 hrs 13 mins      ████████████░░░░░░░░░░░░░   46.87 % 
 
 🐱‍💻 Projects: 
-neexofy                  11 hrs 22 mins      ██████████░░░░░░░░░░░░░░░   39.54 % 
-cv-master                7 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
-next-car                 4 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
-agenda-tattoo            3 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
-AstroDev                 57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+neexofy                  10 hrs 48 mins      ██████████░░░░░░░░░░░░░░░   38.28 % 
+cv-master                6 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   22.49 % 
+agenda-tattoo            4 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
+next-car                 4 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
+AstroDev                 57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
 
 💻 Operating System: 
-Windows                  28 hrs 46 mins      █████████████████████████   100.00 % 
+Windows                  28 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 28 hrs 46 mins (100.0%)
+⏱ AI Coding Time: 28 hrs 13 mins (100.0%)
 
-✍️ 14,235 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 13,051 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 621,956,358 Input Tokens, 1,305,646 Output Tokens
+🔤 617,283,363 Input Tokens, 1,271,078 Output Tokens
 
-💵 $2551.86 Estimated AI Cost This Week
+💵 $2556.34 Estimated AI Cost This Week
 
-🧠 45 AI Sessions, 298 AI Prompts
+🧠 45 AI Sessions, 272 AI Prompts
 
-Sonnet                   12,008 lines        █████████████████████░░░░   84.20 % 
-GPT                      2,243 lines         ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
-Vscode-Wakatime          10 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Sonnet                   10,807 lines        █████████████████████░░░░   82.64 % 
+GPT                      2,260 lines         ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
+Vscode-Wakatime          10 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 6,773 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
+📚 Verbose Prompter — average 6,939 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -260,5 +260,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/08/2026 00:44:30 UTC
+ Last Updated on 06/08/2026 00:41:58 UTC
 <!--END_SECTION:waka-->
