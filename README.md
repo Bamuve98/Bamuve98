@@ -156,6 +156,10 @@
 ### ⏱️ WakaTime Weekly Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-83%20hrs%2021%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-111%20hrs%2037%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -197,49 +201,49 @@ Sunday                   715 commits         ████████░░░�
 🕑︎ Time Zone: America/Santiago
 
 💬 Programming Languages: 
-Markdown                 16 hrs 15 mins      ███████████████░░░░░░░░░░   59.01 % 
-Other                    7 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   26.52 % 
-TypeScript               2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
-JSON                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
-SQL                      21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+Markdown                 14 hrs 47 mins      ██████████████░░░░░░░░░░░   57.54 % 
+Other                    7 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   28.42 % 
+TypeScript               2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+JSON                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+SQL                      21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 38 mins      █████████████░░░░░░░░░░░░   53.15 % 
-Claude Code              12 hrs 54 mins      ████████████░░░░░░░░░░░░░   46.85 % 
+VS Code                  13 hrs 49 mins      █████████████░░░░░░░░░░░░   53.77 % 
+Claude Code              11 hrs 53 mins      ████████████░░░░░░░░░░░░░   46.23 % 
 
 🐱‍💻 Projects: 
-neexofy                  10 hrs 38 mins      ██████████░░░░░░░░░░░░░░░   38.63 % 
-cv-master                5 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   21.16 % 
-agenda-tattoo            4 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
-next-car                 4 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
-AstroDev                 57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+neexofy                  9 hrs 50 mins       ██████████░░░░░░░░░░░░░░░   38.28 % 
+cv-master                5 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   22.67 % 
+agenda-tattoo            4 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
+next-car                 3 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+AstroDev                 57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
 
 💻 Operating System: 
-Windows                  27 hrs 32 mins      █████████████████████████   100.00 % 
+Windows                  25 hrs 42 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 27 hrs 32 mins (100.0%)
+⏱ AI Coding Time: 25 hrs 42 mins (100.0%)
 
-✍️ 12,321 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 10,586 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 593,077,857 Input Tokens, 1,216,244 Output Tokens
+🔤 562,855,299 Input Tokens, 1,147,492 Output Tokens
 
-💵 $2468.64 Estimated AI Cost This Week
+💵 $2429.07 Estimated AI Cost This Week
 
-🧠 42 AI Sessions, 266 AI Prompts
+🧠 41 AI Sessions, 237 AI Prompts
 
-Sonnet                   10,440 lines        █████████████████████░░░░   82.14 % 
-GPT                      2,260 lines         ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
-Vscode-Wakatime          10 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Sonnet                   9,377 lines         █████████████████████░░░░   85.45 % 
+GPT                      1,587 lines         ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
+Vscode-Wakatime          10 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 6,849 characters per prompt
+📚 Verbose Prompter — average 6,518 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -256,5 +260,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 01:23:34 UTC
+ Last Updated on 08/08/2026 00:27:15 UTC
 <!--END_SECTION:waka-->
