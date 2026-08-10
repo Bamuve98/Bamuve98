@@ -201,50 +201,50 @@ Sunday                   715 commits         ████████░░░�
 🕑︎ Time Zone: America/Santiago
 
 💬 Programming Languages: 
-Markdown                 14 hrs 15 mins      ██████████████████░░░░░░░   72.68 % 
-Other                    3 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
-TypeScript               1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
-JSON                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
-SQL                      21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+Markdown                 9 hrs 5 mins        █████████████████░░░░░░░░   67.48 % 
+Other                    2 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
+TypeScript               1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
+JSON                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
+SQL                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 40 mins      ██████████████░░░░░░░░░░░   54.43 % 
-Claude Code              8 hrs 56 mins       ███████████░░░░░░░░░░░░░░   45.57 % 
+VS Code                  8 hrs 8 mins        ███████████████░░░░░░░░░░   60.50 % 
+Claude Code              5 hrs 19 mins       ██████████░░░░░░░░░░░░░░░   39.50 % 
 
 🐱‍💻 Projects: 
-neexofy                  6 hrs 59 mins       █████████░░░░░░░░░░░░░░░░   35.62 % 
-cv-master                5 hrs 12 mins       ███████░░░░░░░░░░░░░░░░░░   26.57 % 
-agenda-tattoo            4 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   25.17 % 
-next-car                 2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
-6.1.1                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+agenda-tattoo            4 hrs 55 mins       █████████░░░░░░░░░░░░░░░░   36.56 % 
+neexofy                  4 hrs 37 mins       █████████░░░░░░░░░░░░░░░░   34.30 % 
+next-car                 2 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
+cv-master                1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
+AstroDev                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Windows                  19 hrs 37 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 hrs 37 mins (100.0%)
+⏱ AI Coding Time: 13 hrs 27 mins (100.0%)
 
-✍️ 8,608 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 4,400 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 428,976,904 Input Tokens, 882,756 Output Tokens
+🔤 319,994,381 Input Tokens, 585,552 Output Tokens
 
-💵 $2266.13 Estimated AI Cost This Week
+💵 $2048.51 Estimated AI Cost This Week
 
-🧠 34 AI Sessions, 160 AI Prompts
+🧠 28 AI Sessions, 99 AI Prompts
 
-Sonnet                   7,411 lines         █████████████████████░░░░   82.38 % 
-GPT                      1,575 lines         ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
-Vscode-Wakatime          10 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   3,776 lines         ████████████████████░░░░░   79.05 % 
+GPT                      991 lines           █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
+Vscode-Wakatime          10 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 3,237 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📚 Verbose Prompter — average 3,088 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -260,5 +260,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/08/2026 00:28:50 UTC
+ Last Updated on 10/08/2026 00:30:09 UTC
 <!--END_SECTION:waka-->
