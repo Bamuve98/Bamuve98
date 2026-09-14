@@ -201,48 +201,43 @@ Sunday                   1385 commits        ████░░░░░░░�
 🕑︎ Time Zone: America/Santiago
 
 💬 Programming Languages: 
-Markdown                 1 hr 54 mins        ██████████████░░░░░░░░░░░   57.55 % 
-Python                   47 mins             ██████░░░░░░░░░░░░░░░░░░░   24.01 % 
-TypeScript               20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
-Other                    14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
-CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+Markdown                 56 mins             ████████████████░░░░░░░░░   62.73 % 
+Python                   28 mins             ████████░░░░░░░░░░░░░░░░░   31.94 % 
+Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
 
 🔥 Editors: 
-Claude Code              1 hr 40 mins        █████████████░░░░░░░░░░░░   50.80 % 
-Codex Vscode             1 hr 37 mins        ████████████░░░░░░░░░░░░░   49.20 % 
+Codex Vscode             1 hr 5 mins         ██████████████████░░░░░░░   72.54 % 
+Claude Code              24 mins             ███████░░░░░░░░░░░░░░░░░░   27.46 % 
 
 🐱‍💻 Projects: 
-kmz                      2 hrs 6 mins        ████████████████░░░░░░░░░   63.68 % 
-seleccion                40 mins             █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
-arceri                   22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
-human-playing-cards      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+kmz                      49 mins             ██████████████░░░░░░░░░░░   55.29 % 
+seleccion                40 mins             ███████████░░░░░░░░░░░░░░   44.71 % 
 
 💻 Operating System: 
-Windows                  3 hrs 18 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 29 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 18 mins (100.0%)
+⏱ AI Coding Time: 1 hr 29 mins (100.0%)
 
-✍️ 3,173 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 579 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,481,999 Input Tokens, 182,092 Output Tokens
+🔤 970,571 Input Tokens, 118,685 Output Tokens
 
-💵 $43.69 Estimated AI Cost This Week
+💵 $38.59 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 51 AI Prompts
+🧠 7 AI Sessions, 20 AI Prompts
 
-Sonnet                   2,611 lines         ████████████████████░░░░░   81.54 % 
-GPT                      591 lines           █████░░░░░░░░░░░░░░░░░░░░   18.46 % 
+GPT                      583 lines           ████████████████████████░   95.89 % 
+Sonnet                   25 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 6,149 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📚 Verbose Prompter — average 13,355 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -259,5 +254,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/09/2026 00:54:29 UTC
+ Last Updated on 14/09/2026 00:54:33 UTC
 <!--END_SECTION:waka-->
